@@ -6,6 +6,8 @@
 
 ![alt text](image.png)
 
+https://github.com/ishii26/Music_app/assets/123073853/2076e796-0001-46e6-8298-3feff8bcc987
+
 ## Features:
 
 #### Next.js Power:
